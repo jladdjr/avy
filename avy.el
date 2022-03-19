@@ -63,7 +63,7 @@
   :group 'convenience
   :prefix "avy-")
 
-(defcustom avy-keys '(?a ?s ?d ?f ?g ?h ?j ?k ?l)
+(defcustom avy-keys '(?a ?o ?e ?u ?i ?d ?h ?t ?n)
   "Default keys for jumping.
 Any key is either a character representing a self-inserting
 key (letters, digits, punctuation, etc.) or a symbol denoting a
